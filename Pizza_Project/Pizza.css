@@ -1,0 +1,64 @@
+body{
+    background-color: bisque;
+}
+#menuBG{
+    width:400px;
+    height: 470px;
+    margin: 10px auto;
+}
+#frmMenu{
+    width: 600px;
+    height: 200px;
+}
+#totalPrice{
+    width: 200px;
+    height: 190px;
+    margin: 0px auto;
+    float: right;
+}
+.left{
+    width: 200px;
+    height: 200px;
+    float: left;
+}
+.centre{
+    width:200px;
+    height: 200px;
+    float: left;
+}
+.right{
+    width:200px;
+    height: 200px;
+    float: left;
+}
+#showText{
+    width: 200px;
+    height: 190px;
+    margin: 0px auto;
+    float: left;
+}
+#cart{
+    height: 200px;
+    width: 400px;
+    top: 0;
+    margin: 0px auto;
+}
+#btnOrder{
+    margin: 10px 0px 0px 100px;
+    width: 100px;
+    height: 40px;
+}
+h1{
+    color: black;
+    font-weight: bold;
+    font-style: italic;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h3{
+    color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+div{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: darkblue;
+}
